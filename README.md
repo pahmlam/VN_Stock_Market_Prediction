@@ -123,8 +123,7 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels yfinance scikit-le
 **Cách chạy dự án:**
 
 1.  Tải mã nguồn về máy.
-2.  Mở file `stock.py` hoặc chuyển đổi nội dung sang định dạng `.ipynb` nếu sử dụng Jupyter Notebook.
-3.  Chạy tuần tự các khối lệnh (cells).
+2.  Chạy tuần tự các khối lệnh (cells).
       * Phần 1 sẽ tải và xử lý dữ liệu, tạo ra các file `.csv` sạch.
       * Các phần tiếp theo sẽ thực hiện phân tích và vẽ biểu đồ.
       * Phần cuối cùng sẽ thực hiện huấn luyện mô hình LSTM. Lưu ý: Quá trình huấn luyện có thể mất thời gian tùy thuộc vào cấu hình phần cứng.
